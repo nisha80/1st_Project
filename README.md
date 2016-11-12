@@ -1,1 +1,3 @@
-# 1st_Project
+For Compiling : gcc hello.c -o hello
+
+For Executing : ./hello
